@@ -1,14 +1,26 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Limit",
+		"ip": "limit.rip",
 		"type": "PC",
-		"category": "minigames"
+		"category": "Practice, HCF, Kitmap"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "MineAus",
+		"ip": "MineAus.net",
 		"type": "PC",
-		"category": "minigames"
+		"category": "Practice, HCF, Kitmap"
+	},
+        {
+		"name": "Pure",
+		"ip": "Pure.Rip",
+		"type": "PC",
+		"category": "Practice, HCF, Kitmap"
+	}
+	{
+		"name": "AusHeroes",
+		"ip": "AusHeroes.Net",
+		"type": "PC",
+		"category": "Minigames"
 	}
 ]
